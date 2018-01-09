@@ -1,0 +1,36 @@
+{
+  "name": "js-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment.js",
+  "scripts": {
+    "build": "webpack --watch",
+    "server": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    
+  ],
+  "author": "Chandra Sikakollu",
+  "license": "ISC",
+  "devDependencies": {
+    
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.0",
+    "fontawesome": "^4.7.2",
+    "gulp": "^3.9.1",
+    "react-fontawesome": "^1.6.1",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4",
+    "nodemon": "^1.14.3"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.0",
+    "lodash": "^4.17.4"
+  }
+}
