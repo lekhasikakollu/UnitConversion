@@ -13,4 +13,4 @@ Start the development server
 > node assignment
 ```
 
-To view the response, go to: [http://localhost:3001/units/si/["query"]]
+To view the response, go to: [http://localhost:3001/units/si/query]
